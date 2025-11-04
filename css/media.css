@@ -1,0 +1,380 @@
+/*==  xtra Small ==*/
+@media (max-width: 575.98px) {
+  .navbar-brand img {
+    width: 150px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-toggler {
+    border: 0;
+  }
+  .modal-dialog {
+    max-width: 100%;
+}
+  .navbar-collapse {
+    background: #ddd;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .button {
+    margin-left: 0px;
+  }
+  .nav-link {
+    padding-bottom: 21px !important;
+  }
+  .nav-link::after {
+    bottom: 8px;
+  }
+  #banner {
+    padding-top: 60px;
+  }
+  .banner-left h1 {
+    font-size: 45px;
+    line-height: 50px;
+    padding-right: 0;
+  }
+  .banner-left p {
+    font-size: 18px;
+    line-height: 30px;
+    padding-right: 0px;
+  }
+  .banner-left a {
+    padding: 15px 25px;
+    font-size: 18px;
+  }
+  .banner-left p {
+    padding-bottom: 40px;
+  }
+  .banner-img {
+    padding-top: 60px;
+  }
+  #welcome {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .headline h2 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .headline p {
+    font-size: 15px;
+    line-height: 26px;
+    padding: 0 0px;
+  }
+  .headline h2 {
+    padding-bottom: 20px;
+  }
+  .welcome-right {
+    padding-top: 20px;
+  }
+  .welcome-right p {
+    font-size: 16px;
+    padding-right: 0;
+  }
+  .points-item span {
+    font-size: 16px;
+}
+.head h2 {
+    font-size: 40px;
+}
+.concern-item {
+    margin-bottom: 20px;
+}
+#concern {
+    padding-bottom: 60px;
+}
+.grow-item {
+    margin-bottom: 20px;
+}
+#grow {
+    padding-bottom: 60px;
+}
+#success {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.success-left i {
+    font-size: 80px;
+}
+.success-right {
+    padding-left: 0px;
+    padding-top: 30px;
+}
+.head p {
+    padding-right: 0; 
+}
+.right i {
+    font-size: 50px;
+}
+.ready-right h3 {
+    padding-top: 30px;
+    font-size: 30px;
+    line-height: 42px;
+    padding-bottom: 35px;
+}
+.ready-right {
+    padding-left: 20px;
+}
+footer {
+    padding: 70px 0;
+}
+.footer-right  {
+    text-align: left!important;
+    padding-top: 30px;
+}
+.accordion-button::before {
+    width: 80%;
+}
+
+}
+
+/*== small device ===*/
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-brand img {
+    width: 150px;
+  }
+    .modal-dialog {
+    max-width: 80%;
+}
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-toggler {
+    border: 0;
+  }
+  .navbar-collapse {
+    background: #ddd;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .button {
+    margin-left: 0px;
+  }
+  .nav-link {
+    padding-bottom: 21px !important;
+  }
+  .nav-link::after {
+    bottom: 8px;
+  }
+  #banner {
+    padding-top: 60px;
+  }
+  .banner-left h1 {
+    font-size: 45px;
+    line-height: 50px;
+    padding-right: 0;
+  }
+  .banner-left p {
+    font-size: 18px;
+    line-height: 30px;
+    padding-right: 0px;
+  }
+  .banner-left a {
+    padding: 15px 25px;
+    font-size: 18px;
+  }
+  .banner-left p {
+    padding-bottom: 40px;
+  }
+  .banner-img {
+    padding-top: 60px;
+  }
+  #welcome {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.headline h2 {
+    font-size: 48px;
+    line-height: 60px;
+}
+.welcome-right h3 {
+    font-size: 30px;
+    line-height: 52px;
+}
+.welcome-right p {
+    font-size: 14px;
+    padding-right: 0;
+}
+.welcome-right {
+    padding-top: 30px;
+}
+.concern-item {
+    margin-bottom: 20px;
+}
+#concern {
+    padding-bottom: 70px;
+}
+.grow-item {
+    margin-bottom: 20px;
+}
+#grow {
+    padding-bottom: 70px;
+}
+.accordion-button::before {
+    width: 80%;
+}
+#success {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.success-right {
+    padding-left: 0;
+    padding-top: 30px;
+}
+.ready-right h3 {
+    font-size: 40px;
+    padding-top: 20px;
+}
+footer {
+    padding: 70px 0;
+}
+.footer-right  {
+    text-align: left!important;
+    padding-top: 30px;
+}
+
+}
+
+/*== Medium device ===*/
+@media(min-width:768px) and (max-width:991.98px){
+  .modal-dialog {
+    max-width: 70%;
+}
+.banner-left {
+    padding-top: 0;
+}
+.banner-left h1 {
+    font-size: 52px;
+    line-height: 65px;
+}
+.banner-left p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-right: 0;
+    padding-bottom: 40px;
+}
+.banner-left a {
+    padding: 12px 20px;
+    font-size: 20px;
+}
+#banner {
+    padding-top: 170px;
+    padding-bottom: 60px;
+}
+#welcome {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.headline h2 {
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+.headline p {
+    font-size: 17px;
+    padding: 0 0px;
+}
+.concern-item {
+    margin-bottom: 20px;
+}
+#concern {
+    padding-bottom: 90px;
+}
+.grow-item {
+    margin-bottom: 20px;
+}
+#faq {
+    padding-top: 60px;
+}
+.faq-right .head h2 {
+    font-size: 30px;
+}
+.head {
+    padding-bottom: 50px;
+}
+.faq-right {
+    padding-top: 0;
+}
+.accordion-button::before {
+    width: 80%;
+}
+#success {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.head h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.head p {
+    padding-top: 20px;
+    padding-right: 0;
+}
+.ready-right h3 {
+    font-size: 28px;
+    line-height: 45px;
+    padding-bottom: 30px;
+}
+footer {
+    padding: 90px 0;
+}
+.social i {
+    margin-left: 5px;
+}
+#grow {
+    padding-bottom: 90px;
+}
+
+}
+
+/*== Large device ===*/
+@media(min-width:992px) and (max-width:1199.98px){
+    .modal-dialog {
+    max-width: 70%;
+}
+.banner-left h1 {
+  font-size: 64px;
+  line-height: 70px;
+  padding-right: 0;
+}
+.banner-left p {
+    font-size: 20px;
+    line-height: 32px;
+    padding-right: 10px;
+}
+.headline h2 {
+    font-size: 52px;
+}
+.welcome-row {
+  align-items: center;
+}
+.concern-item {
+    margin-bottom: 24px;
+}
+.accordion-button::before {
+    width: 80%;
+}
+.head h2 {
+    font-size: 36px;
+    line-height: 40px;
+}
+.ready-right h3 {
+    font-size: 44px;
+    line-height: 58px;
+}
+
+}
+
+/*== Xtra Large device ===*/
+@media(min-width:1200px) and (max-width:1399.98px){
+.concern-item {
+    padding: 20px 15px 21px 15px;
+}
+.accordion-button::before {
+    width: 80%;
+}
+}
